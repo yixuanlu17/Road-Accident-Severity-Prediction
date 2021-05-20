@@ -47,7 +47,7 @@ Bagging_1
 55.67
 ```
 
-### Gradient Boosting scores
+#### Gradient Boosting scores
 ```
 Model	Score
 0	Gradient Boosting_1	86.71
