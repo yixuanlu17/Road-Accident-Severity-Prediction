@@ -55,3 +55,6 @@ Model	Score
 
 #### Conclusion
 Among all other techniques used, Gradient Boosting Classifier has performed best with the highest accuracy. One reason why RF works well is because the algorithm can look past and handle the missing values in the tweets.
+
+#### Project Contributer
+Lei Cao 
