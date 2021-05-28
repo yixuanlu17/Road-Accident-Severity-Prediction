@@ -26,6 +26,16 @@ The dataset will keep being updated as more data become available by the Departm
 * `geopandas` 
 * `scikit-learn`
 
+## Skills
+* Data Cleaning 
+* Exploratory Data Analysis 
+* Permutation testing
+* Polynomial features
+* Data Modeling
+* Hyperparameter Tuning
+* Machine Learning Model Pipelines
+* GridSearchCV
+
 ## Results
 
 * We started our analysis with exploratory data analysis to discern the dataset. Machine learning algorithms were used to explore the complex interactions among roadways, traffic, environmental elements and predicting accident severity. Since most of the predictor variables in the dataset were categorical, we recoded categorical variables. 11 models were built, evaluated for complexity and accuracy, and compared to conclude which model is the best fit for predicting accident severity. 
